@@ -1,6 +1,6 @@
 {
   "name": "webpack-stonejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stone.js Webpack plugin to extract / compile translatable strings",
   "main": "dist/webpack-stonejs.js",
   "directories": {
