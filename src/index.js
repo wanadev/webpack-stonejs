@@ -103,4 +103,4 @@ class WebpackStonejs {
   }
 }
 
-module.exports = WebpackStonejs;
+export default WebpackStonejs;
